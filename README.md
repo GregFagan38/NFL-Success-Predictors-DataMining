@@ -29,7 +29,7 @@ The NFL's competitive nature leads to fluctuating team performances influenced b
 ## Data Description
 
 ### Source
-The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/cviaxmiwnptr/nflteam-stats-20022019-espn/data), featuring team statistics from the 2002-2003 to 2023-2024 NFL seasons. After preprocessing, the dataset included:
+The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn/data), featuring team statistics from the 2002-2003 to 2023-2024 NFL seasons. After preprocessing, the dataset included:
 - **Rows:** 4,861  
 - **Columns:** 61 (e.g., passing yards, red zone completions, sacks, penalties)
 
