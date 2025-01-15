@@ -72,7 +72,7 @@ Key visualizations included:
 ### Recommendations
 1. **Leverage Home-Field Advantage Insights:** Home teams consistently perform better in metrics like passing yards and red zone efficiency. These insights can inform more accurate betting lines.  
 2. **Expand Betting Options:** Introduce prop and parlay bets based on key predictors (e.g., penalties, turnovers).  
-3. **Collaborate for Advanced Modeling:** Engage our team to further enhance model accuracy and profitability.  
+ 
 
 ### Limitations
 - **Data Constraints:** Limited samples for season-level aggregated playoff data.  
