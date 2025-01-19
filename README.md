@@ -5,7 +5,7 @@ Max Enabnit, Greg Fagan, Brian Karstens, Christian Kleronomos, Luke Rubin
 
 ## Instructions for Repository 
 
-The repository is broken down into three folders consisting of infromation on the data, report, visuals, and code used in the project. Each folder will have a "README.md" file to explain how to navigate the folders.
+The repository is broken down into three folders consisting of infromation on the data, report, and Models used in the project. Each folder except "Report" will have a "README.md" file to explain how to navigate the folders.
 
 ## Summary
 
