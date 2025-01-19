@@ -1,4 +1,4 @@
-# NFL Success Predictors: Home-Field Advantage and Playoff Analytics
+# NFL Success Predictors
 
 **Contributors:**  
 Max Enabnit, Greg Fagan, Brian Karstens, Christian Kleronomos, Luke Rubin  
