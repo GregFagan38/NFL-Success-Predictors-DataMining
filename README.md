@@ -3,7 +3,11 @@
 **Contributors:**  
 Max Enabnit, Greg Fagan, Brian Karstens, Christian Kleronomos, Luke Rubin  
 
-## Executive Summary
+## Instructions for Repository 
+
+The repository is broken down into three folders consisting of infromation on the data, report, visuals, and code used in the project. Each folder will have a "README.md" file to explain how to navigate the folders.
+
+## Summary
 
 This project focuses on creating two predictive models for the NFL:  
 1. **Playoff Qualification Predictor:** Determines whether an NFL team will make the playoffs.  
